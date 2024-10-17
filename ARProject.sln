@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARExercise", "ARExercise\ARExercise.csproj", "{8BB71B18-49D6-46B7-8179-3F6B93C6EF26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB71B18-49D6-46B7-8179-3F6B93C6EF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB71B18-49D6-46B7-8179-3F6B93C6EF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB71B18-49D6-46B7-8179-3F6B93C6EF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB71B18-49D6-46B7-8179-3F6B93C6EF26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {786D5512-46E5-4846-8EB5-A39C3EB0EF5C}
+	EndGlobalSection
+EndGlobal
